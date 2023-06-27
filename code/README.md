@@ -72,21 +72,9 @@ Volvo Cars, Ghent, Belgium
 
 
 ```python
-aoi = "POLYGON ((3.754824 51.096633, \
-              3.753451 51.096242, \
-              3.755747 51.093102, \
-              3.755661 51.09511, \
-              3.755211 51.094989, \
-              3.754953 51.095393, \
-              3.755211 51.09608, \
-              3.755125 51.0967, \
-              3.755447 51.097953, \
-              3.755168 51.098048, \
-              3.755009 51.097886, \
-              3.754116 51.097697, \
-              3.754824 51.096633))"
+observation_period= "2023-01-01/2023-05-31"
 
-time_period= "2023-01-01/2023-05-31"
+aoi = "POLYGON ((3.754824 51.096633, 3.753451 51.096242, 3.755747 51.093102, 3.755661 51.09511, 3.755211 51.094989, 3.754953 51.095393, 3.755211 51.09608, 3.755125 51.0967, 3.755447 51.097953, 3.755168 51.098048, 3.755009 51.097886, 3.754116 51.097697, 3.754824 51.096633))"
 
 OUTPUT_DIR = "/home/E8/result-data/e8" # will be copied to the local folder of the user requesting the data
 
@@ -96,7 +84,7 @@ OUTPUT_DIR = "/home/E8/result-data/e8" # will be copied to the local folder of t
 
 
 ```python
-from_to = time_period.split("/")
+from_to = observation_period.split("/")
 
 interval = (f'{from_to[0]}T00:00:00Z', f'{from_to[1]}T23:59:59Z')
 print(f'interval: {interval}')
