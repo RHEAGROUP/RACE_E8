@@ -63,11 +63,13 @@ config = SHConfig()
 config.sh_client_id = sh_client_id
 config.sh_client_secret = sh_client_secret
 
+OUTPUT_DIR = "/home/E8/result-data/e8" # will be copied to the local folder of the user requesting the data
 
 ```
 
 ## Input Parameters
-Volvo Cars, Ghent, Belgium
+Observation Period: 2023-01-01 / 2023-05-31
+Location: Volvo Cars, Ghent, Belgium
 
 
 
@@ -75,8 +77,6 @@ Volvo Cars, Ghent, Belgium
 observation_period= "2023-01-01/2023-05-31"
 
 aoi = "POLYGON ((3.754824 51.096633, 3.753451 51.096242, 3.755747 51.093102, 3.755661 51.09511, 3.755211 51.094989, 3.754953 51.095393, 3.755211 51.09608, 3.755125 51.0967, 3.755447 51.097953, 3.755168 51.098048, 3.755009 51.097886, 3.754116 51.097697, 3.754824 51.096633))"
-
-OUTPUT_DIR = "/home/E8/result-data/e8" # will be copied to the local folder of the user requesting the data
 
 ```
 
