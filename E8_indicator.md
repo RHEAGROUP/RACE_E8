@@ -29,8 +29,8 @@ Additional customizations of this implementation could provide:
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
 ## Resources:
-- See the full [Jupyter Notebook](code/README.md),
-- or download the working Jupyter Notebook from [here](code/RACE_FinishedGoodsInventory_inidcator.ipynb)
+- See the [full code](code/README.md),
+- or download the working [Jupyter Notebook](code/RACE_FinishedGoodsInventory_inidcator.ipynb)
 
 ## Requirements:
 - Processing resources: This algorithm is customized to run within the EDC EOX infrastructure using Jupyter-lab.
