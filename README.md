@@ -1,5 +1,5 @@
 # Deriving Earth Observation indicators from Euro Data Cube data: The RACE E8 indicator 
-This repository contains scripts developed to exploit Earth Observation data from EuroDataCube to provide Finished Goods Inventory information
+This repository contains scripts to exploit Earth Observation data from EuroDataCube to provide Finished Goods Inventory information
 
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
