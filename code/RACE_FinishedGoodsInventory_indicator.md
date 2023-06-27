@@ -601,6 +601,6 @@ fig.savefig(os.path.join(OUTPUT_DIR,'average_gamma0_time_series.pdf'))
 
 
     
-![png](output_25_0.png)
+![png](../images/output_25_0.png)
     
 
