@@ -11,7 +11,7 @@ The implemented algorithm will retrieve, using the SentinelHub Statistical API, 
 
 The steps that this algorithm follows are:
 1. Time series retrieval of the averaged gamma0 terrain flattened over the AOI
-2. Outlier removal to remove and interpolate any possible outlier
+2. Outlier detection using [3σ rule](https://doi.org/10.1061/(ASCE)SU.1943-5428.0000112) and correction by interpolating any possible outlier
 3. Result publication 
 
 The images below show the differences between gamma0 backscatter (top) and gamma0 with radiometric terrain correction or **flattened** (bottom) both in decibel scale available in SentinelHub.
