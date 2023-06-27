@@ -3,8 +3,12 @@ This repository contains scripts to exploit Earth Observation data from EuroData
 
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
-## Indicators:
-1. The **E8** Economic Indicator: [Finished Goods Inventory indicator](E8_indicator.md)
+## Indicator overview:
+1. The **E8** Economic Indicator: [Finished Goods Inventory indicator](E8_indicator.md):
+The **Finished Goods Inventory indicator** uses Sentinel-1 Normalized Radar Backscatter (gamma0 flattened) time information to provide the entire time series information (starting in January 2015) over a user-defined Area of Interest (AOI).
+
+An overview of the RACE platform overview showing the Finished Good Inventory information is available in the following image.
+<p><center> <img src="../images/RACE_FinishedGoodsInventory_view_20230622.png" width="700"/> </p></center>
 
 ## Get started
 - [Rapid Action for Citizen with Earth Observation (**RACE**) platform](https://race.esa.int) 
