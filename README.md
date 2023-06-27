@@ -4,7 +4,7 @@ This repository contains scripts developed to exploit Earth Observation data fro
 <p><center> <img src="images/race_logo.jpg" width="700"/> </p></center>
 
 ## Indicators:
-1. The **E8** Economic Indicator: [Finished Goods Inventory indicator](economic_indicators/E8_S1_NRB/)
+1. The **E8** Economic Indicator: [Finished Goods Inventory indicator](E8_indicator.md)
 
 ## Get started
 - [Rapid Action for Citizen with Earth Observation (**RACE**) platform](https://race.esa.int) 
