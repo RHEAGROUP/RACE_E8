@@ -29,7 +29,7 @@ Additional customizations of this implementation could provide:
 <p><center> <img src="images/E8_ts_sample.png" width="700"/> </p></center>
 
 ## Resources:
-- See the full [Jupyter Notebook](code/RACE_FinishedGoodsInventory_inidcator.md),
+- See the full [Jupyter Notebook](code/RACE_FinishedGoodsInventory_indicator.md),
 - or download the working Jupyter Notebook from [here](code/RACE_FinishedGoodsInventory_inidcator.ipynb)
 
 ## Requirements:
