@@ -35,3 +35,4 @@ Additional customizations of this implementation could provide:
 ## Requirements:
 - Processing resources: This algorithm is customized to run within the EDC EOX infrastructure using Jupyter-lab.
 - User credentials: requires an active account with any of the available subscription plans.
+- Conda environment: edc-default-2023-03-02
