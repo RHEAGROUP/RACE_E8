@@ -69,6 +69,7 @@ OUTPUT_DIR = "/home/E8/result-data/e8" # will be copied to the local folder of t
 
 ## Input Parameters
 Observation Period: 2023-01-01 / 2023-05-31
+
 Location: Volvo Cars, Ghent, Belgium
 
 
